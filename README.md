@@ -1,17 +1,16 @@
-### Hi there 👋
-# About me!
+```js
+const githubProfile = {
+  username: "mihailocv",
+  fullName: "Mihailo Cvjetinović",
+  namePronounce: "Mee-hay-low Tsvye-tee-noh-vich",
+  age: 21,
+  education: "Student at Higher Education Technical School of Professional Studies in Novi Sad",
+  skills: ["HTML", "CSS", "SASS", "JavaScript", "PHP"],
+  contact: {
+    linkedIn: "https://linkedin.com/in/mihailocv",
+    instagram: "https://instagram.com/mihailocv"
+  }
+};
 
-<!--
-**mihailocv/mihailocv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+console.log(githubProfile);
+```
