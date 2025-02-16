@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **ASP.NET, .NET Core, C#**
 
-- 👨‍💻 All of my projects are available at [mihailocv.com/](mihailocv.com/)
+- 👨‍💻 All of my projects are available at [mihailocv.com/](https://mihailocv.com/)
 
-- 📝 I regularly write articles on [blog.mihailocv.com/](blog.mihailocv.com/)
+- 📝 I regularly write articles on [blog.mihailocv.com/](https://blog.mihailocv.com/)
 
 - 📫 How to reach me **contact@mihailocv.com**
 
-- 📄 Know about my experiences [mihailocv.com/cv.pdf](mihailocv.com/cv.pdf)
+- 📄 Know about my experiences [mihailocv.com/cv.pdf](https://mihailocv.com/cv.pdf)
 
 - ⚡ Fun fact **I really enjoy fixing and putting things together!**
 
